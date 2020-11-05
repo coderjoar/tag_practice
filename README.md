@@ -1,3 +1,3 @@
 # tag_practice
 
-https://only1joar.github.io/tag_practice/
+https://onlyonejoar.github.io/tag_practice/
